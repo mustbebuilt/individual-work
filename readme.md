@@ -10,3 +10,9 @@ git status
 git log
 
 git commit -m 'Some message'
+
+//
+git push -u origin master
+
+YOU NEED A SSH KEY
+https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
